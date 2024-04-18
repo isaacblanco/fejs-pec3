@@ -1,12 +1,41 @@
 {
   "compilerOptions": {
     /* Basic Options */
-    "target": "es2015", 
-    "module": "commonjs", 
-    "outDir": "./dist",   
-    "rootDir": "./src", 
+    "target": "es2015",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
     "strict": true,
     "incremental": true,
-    "tsBuildInfoFile": "./buildcache",
+    "tsBuildInfoFile": "./buildcache"
   }
 }
+
+/*
+Analizando el tsconfig.ts
+
+**compilerOptions**: Aquí es donde se especifican las opciones para compliar
+
+Con las siguientes opciones básicas:
+
+- "target": "es2015"
+    Aquí hablamos de versiones de ECMAScript, en este caso el ES2015 o ES6
+
+- "module": "commonjs"
+    Existen los sistemas de módulos, en este case se opta por node
+
+- "outDir": "./dist"
+    Se indica el directorio donde se genera el código para distribuir
+
+- "rootDir": "./src"
+    Indica el directorio ráiz donde se encuentra el código fuente (fichero a transformar)
+
+- "strict": true
+    Se marca como verdadera la comprobación de tipos mas estricta, buena por los motivos comentados anteriormente, mala si tendemos a no controlar todo.
+
+- "incremental": true
+    Como forma de optimización, el typescript solo compilará los cambios, mejora el tiempo de construcción de la salida.
+
+- "tsBuildInfoFile": "./buildcache"
+    Aquí se guarda la información de compilado incremental.
+*/
