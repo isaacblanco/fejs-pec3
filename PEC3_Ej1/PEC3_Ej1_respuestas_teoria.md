@@ -4,19 +4,19 @@
 
 ### Seguridad de tipos
 
-En JavaScript, dog puede ser cualquier tipo de dato. En TypeScript, la interfaz Dog define que kind debe ser un string y weight un número. Esto evita errores como asignar true a kind. ¡Te atrapa antes de ejecutar el código!
+En JavaScript, dog puede ser cualquier tipo de dato. En TypeScript, la interfaz Dog define que kind debe ser un string y weight un número. Esto evita errores como asignar true a kind. Informa del error antes de ejecutar el código
 
 ### Mejor autocompletado
 
-Los editores de código modernos usan la definición de la interfaz Dog para ofrecerte sugerencias al escribir código relacionado con perros. Esto te ayuda a escribir más rápido y con menos errores.
+Los editores de código modernos usan la definición de la interfaz Dog para ofrecerte sugerencias al escribir código relacionado con perros. Esto ayuda a escribir más rápido y con menos errores.
 
 ### Documentación del código
 
-La interfaz Dog documenta explícitamente qué datos esperan las funciones que trabajan con perros. Esto mejora la claridad del código, especialmente en proyectos grandes o cuando trabajas en equipo.
+La interfaz Dog documenta explícitamente qué datos esperan las funciones que trabajan con perros. Esto mejora la claridad del código, especialmente en proyectos grandes o cuando se trabaja en equipo.
 
 ### Detección temprana de errores
 
-Al compilar TypeScript a JavaScript, se verifica que los valores asignados a las propiedades de dog coincidan con los tipos definidos en la interfaz. Si intentas poner true en kind, el compilador te avisará antes de ejecutar el código.
+Al compilar TypeScript a JavaScript, se verifica que los valores asignados a las propiedades de dog coincidan con los tipos definidos en la interfaz. Si intentas poner true en kind, el compilador avisa antes de ejecutar el código.
 
 ### Refactorización más segura
 

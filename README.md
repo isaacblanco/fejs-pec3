@@ -3,19 +3,17 @@
 **login UOC**: isaacblanco
 **Alumno**: Isaac Blanco Peco
 
-## Ejercicios
+## Ejercicio 1
 
-### Ejercicio 1
+**Dificultades:** : Ninguna, conocía
 
-**Dificultades:**
+**Mejoras:** : .. hay un error en el ejer1.ts pro el tipado, línea 14 kind: true, pero no se pide cambiarlo.
 
-**Mejoras:**
+**Notas de ejecución:** : no es necesario
 
-**Notas de ejecución:**
+**Otros aspectos:** : he enumerado las respuestas dentro del fichero PEC3_EJ2_respuestas_teoria.md
 
-**Otros aspectos:**
-
-### Ejercicio 2
+## Ejercicio 2
 
 **Dificultades:**
 
@@ -25,7 +23,7 @@
 
 **Otros aspectos:**
 
-### Ejercicio 3
+## Ejercicio 3
 
 **Dificultades:**
 
@@ -35,7 +33,7 @@
 
 **Otros aspectos:**
 
-### Ejercicio 4
+## Ejercicio 4
 
 **Dificultades:**
 
