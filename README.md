@@ -58,7 +58,11 @@ Realmente no se que aplicaría aquí. Podría refactorizar el código, pero ento
 
 **Dificultades:** :
 
-**Mejoras:** :
+Me temo que me tire a la piscina sin saber si habia agua, estoy cursando FEA (Front-End avanzado) al mismo tiempo y justo en la PEC2 viene el ejemplo del TODO, de modo que bien, ahora voy entendiendo parte de lo que he hecho.
+
+**Mejoras:**
+
+Podría aplicar nomenclatura al modelo, como TodoDTO o similares, pero creo que se escapa del ámbito de conocimiento planteado en la presente práctica.
 
 **Notas de ejecución:** :
 
