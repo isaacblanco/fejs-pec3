@@ -1,5 +1,15 @@
 # Ejercicio 4.
 
+## Previo
+
+Instalar los paquetes:
+
+```
+sudo npm install
+```
+
+## Configuración ficheros
+
 Se ha configurado el fichero: webpack.config.js como se requiere
 
 ```Javacript
@@ -54,7 +64,11 @@ Donde se llama el fichero en modo de producción
 Para probar la aplicación en modo desarrollo (el código es legible) que permite la depuración. Con --watch monitoreara los archivos del proyecto.
 
 ```
-npm start
+npm run start
 ```
 
 Abrir index.html en la carpeta todo-app
+
+Se debería de ver algo como:
+
+![TODO funcionando](./assets/demoTodo.png "Todo funcionando")

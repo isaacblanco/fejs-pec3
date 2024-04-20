@@ -64,6 +64,10 @@ Me temo que me tire a la piscina sin saber si habia agua, estoy cursando FEA (Fr
 
 Podría aplicar nomenclatura al modelo, como TodoDTO o similares, pero creo que se escapa del ámbito de conocimiento planteado en la presente práctica.
 
-**Notas de ejecución:** :
+**Notas de ejecución:**
 
-**Otros aspectos:** :
+Están definidas en el fichero README_PEC3_Ej4.md
+
+**Otros aspectos:**
+
+No he seguido el webpack de ejemplo, he tirado un poco más por lo que he visto en videos de youtube.
